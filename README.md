@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @YuriiPugach
-- 👀 I’m interested in QA.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
-- 💞️ I’m looking to collaborate on QA sphere
+- 👋 Hi, I’m @YuriiPugach.
 - 📫 How to reach me divan14391@gmail.com, +380500125894
 
 <!---
